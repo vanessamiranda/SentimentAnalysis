@@ -1,4 +1,4 @@
-Note: Please reach out to me if you would like the dataset and part 2 of notebook analysis
+Note: Please reach out to me if you would like the dataset  
 
 # Unlocking Business Insights: Harnessing SentimentAnalysis on Real-World Data for Informed Decision-Making
 
