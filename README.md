@@ -1,3 +1,5 @@
+Note: Please reach out to me if you would like the dataset and part 2 of notebook analysis
+
 # Unlocking Business Insights: Harnessing SentimentAnalysis on Real-World Data for Informed Decision-Making
 
 This report delves into sentiment analysis of Yelp reviews focusing on Burger Busters (a real company with a factitious name to protect its anonymity) vs. other competing burger joints. By employing data analysis, visualisation techniques, sentiment categorisation, comparison studies, hypothesis testing and identification of factors this study aims to reveal valuable insights. The findings uncover variations in sentiment distribution, a lack of negative sentiment representation and the influence of factors on star ratings. These insights underscore the significance of customer experience in shaping reviews. Provide strategies for Burger Busters to improve their ratings and enhance customer satisfaction.
